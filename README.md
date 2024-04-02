@@ -50,4 +50,4 @@ There is a lot of information here and it’s easy to get lost in the data. So, 
 Requirements gathering
 Data cleaning
 Data modelling
-
+[Data Mode](
