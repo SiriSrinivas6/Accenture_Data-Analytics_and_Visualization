@@ -81,3 +81,19 @@ The top 5 categories
 
 You can use Excel or any other tool of your choice to create your final data set.
 [Cleaned Data Set](https://github.com/SiriSrinivas6/Accenture_Data-Analytics_and_Visualization/blob/43b1d1fb559e864ecb272cf69d2cdea7482c2105/Task%202%20Edited.xlsx)
+
+## Task 3: Data Visualization & Storytelling
+
+### Create your charts
+![Bargraph]()
+![Piechart]()
+
+The final step of this task is to populate slides 7 - 10 with data insights.
+
+We know that the client wants to understand the top 5 content categories. Have a think about what are the best ways to present this? In a pie chart? In a bar chart?
+
+There are also some other interesting insights that we might want to share with them. For example:
+
+How many unique categories are there?
+How many reactions are there to the most popular category?
+What was the month with the most posts?
