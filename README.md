@@ -85,7 +85,7 @@ You can use Excel or any other tool of your choice to create your final data set
 ## Task 3: Data Visualization & Storytelling
 
 ### Create your charts
-![Bargraph]()
+![Bargraph](https://github.com/SiriSrinivas6/Accenture_Data-Analytics_and_Visualization/blob/24f0d387b87c96ae5e5b4b3bfd0496da8c332929/Screenshots/1.png)
 ![Piechart]()
 
 The final step of this task is to populate slides 7 - 10 with data insights.
