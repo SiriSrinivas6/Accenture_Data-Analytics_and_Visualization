@@ -50,4 +50,4 @@ There is a lot of information here and it’s easy to get lost in the data. So, 
 Requirements gathering
 Data cleaning
 Data modelling
-[Data Mode](
+[Data Mode](https://github.com/SiriSrinivas6/Accenture_Data-Analytics_and_Visualization/blob/222e328cccb9f116d208130a7c86bd22202abf55/Data%20model.pdf)
