@@ -86,7 +86,7 @@ You can use Excel or any other tool of your choice to create your final data set
 
 ### Create your charts
 ![Bargraph](https://github.com/SiriSrinivas6/Accenture_Data-Analytics_and_Visualization/blob/24f0d387b87c96ae5e5b4b3bfd0496da8c332929/Screenshots/1.png)
-![Piechart]()
+![Piechart](https://github.com/SiriSrinivas6/Accenture_Data-Analytics_and_Visualization/blob/db0b1ba7a4061a8f715a99df8108c034781979e4/Screenshots/2.png)
 
 The final step of this task is to populate slides 7 - 10 with data insights.
 
