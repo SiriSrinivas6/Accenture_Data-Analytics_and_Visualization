@@ -97,4 +97,4 @@ There are also some other interesting insights that we might want to share with 
 How many unique categories are there?
 How many reactions are there to the most popular category?
 What was the month with the most posts?
-[Power Point Presentation]()
+[Power Point Presentation](https://github.com/SiriSrinivas6/Accenture_Data-Analytics_and_Visualization/blob/369207ad79648c199951baf79b3ec6f6b74a3fcd/Task%203%20Power%20Point%20Presentation.pptx)
