@@ -35,7 +35,7 @@ Complete the knowledge check to move onto the next step. You can attempt each qu
 
 
 Brief from Social Buzz
-[Click here](https://github.com/SiriSrinivas6/Accenture_Data-Analytics_and_Visualization/tree/7ec9e147a35539d4a5f1e388124f6a11c865b4e1/Task%201)
+[Click here](https://github.com/SiriSrinivas6/Accenture_Data-Analytics_and_Visualization/tree/427fd0ddf01db00f39cff9be00dd0d24e3b878d9/Task%201)
  
 
 ## Task 2: Data Cleaning & Modeling
