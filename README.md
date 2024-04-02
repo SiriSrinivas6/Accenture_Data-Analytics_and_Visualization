@@ -97,4 +97,18 @@ There are also some other interesting insights that we might want to share with 
 How many unique categories are there?
 How many reactions are there to the most popular category?
 What was the month with the most posts?
+
+
+#### For each slide, think about: 
+
+Agenda - What will your presentation cover?
+Project Recap - What are the key points from the brief?
+Problem - What is the problem that you answer in this presentation?
+The Analytics team - Who is on your team?
+As a reminder from the earlier task - this includes: Andrew Fleming (Chief Technical Architect), Marcus Rompton (Senior Principle), and yourself!
+Process - How did you complete your analysis?
+
 [Power Point Presentation](https://github.com/SiriSrinivas6/Accenture_Data-Analytics_and_Visualization/blob/369207ad79648c199951baf79b3ec6f6b74a3fcd/Task%203%20Power%20Point%20Presentation.pptx)
+
+## Task 4: Present to the Client
+video presentation
