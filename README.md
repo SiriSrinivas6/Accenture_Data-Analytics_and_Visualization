@@ -35,8 +35,19 @@ Complete the knowledge check to move onto the next step. You can attempt each qu
 
 
 Brief from Social Buzz
-Click 1[Click here](https://github.com/SiriSrinivas6/Accenture_Data-Analytics_and_Visualization/tree/7ec9e147a35539d4a5f1e388124f6a11c865b4e1/Task%201)
+[Click here](https://github.com/SiriSrinivas6/Accenture_Data-Analytics_and_Visualization/tree/7ec9e147a35539d4a5f1e388124f6a11c865b4e1/Task%201)
  
 
+## Task 2: Data Cleaning & Modeling
+### Let's dive into the data
 
+The client has sent through:
+
+7 data sets - each data set contains different columns and values
+A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
+There is a lot of information here and it’s easy to get lost in the data. So, to make sure you are using the right data to answer the business questions you’ll follow these steps:
+
+Requirements gathering
+Data cleaning
+Data modelling
 
