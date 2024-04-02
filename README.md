@@ -62,3 +62,22 @@ So, to figure out popularity, we’ll have to add up which content categories ha
 But! Before we begin to work with the data sets, we’ll need to ensure that the data is clean and ready for analysis…
 [Data Sets](https://github.com/SiriSrinivas6/Accenture_Data-Analytics_and_Visualization/tree/79b334986354cd499c0a8733c518cbe696df3573/Data%20Sets)
 
+### Data Modelling
+
+1. Create a final data set by merging your three tables together
+
+using the Reaction table as your base table, then first join the relevant columns from your Content data set, and then the Reaction Types data set.
+#### Use a “VLookUp” formula
+ 
+2. Figure out the Top 5 performing categories
+
+Add up the total scores for each category.
+#### Use the “Sum If” formula
+
+The end result should be one spreadsheet which contains:
+
+A cleaned dataset
+The top 5 categories
+
+You can use Excel or any other tool of your choice to create your final data set.
+[Cleaned Data Set]()
