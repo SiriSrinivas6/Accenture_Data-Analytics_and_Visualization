@@ -35,7 +35,7 @@ Complete the knowledge check to move onto the next step. You can attempt each qu
 
 
 Brief from Social Buzz
-Click 1[Click here]()
+Click 1[Click here](https://github.com/SiriSrinivas6/Accenture_Data-Analytics_and_Visualization/tree/7ec9e147a35539d4a5f1e388124f6a11c865b4e1/Task%201)
  
 
 
